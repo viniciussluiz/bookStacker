@@ -1,5 +1,6 @@
 # organizaBiblioteca
 
+![organizaBiblioteca (2)](https://github.com/viniciussluiz/organizaBiblioteca/assets/103579574/3694165c-0ad8-4ed6-b3e0-83e17c422134)
 
 ## Documentação
 

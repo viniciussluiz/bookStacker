@@ -7,7 +7,7 @@
 
 ## Resumo do projeto
 
-Ideia do projetor é ajudar profissionais que trabalham em bibliotecas para facilitar a organizaão e controle dos livros.
+Ideia do projeto é ajudar profissionais que trabalham em bibliotecas para facilitar a organizaão e controle dos livros.
 
 ## Requisitos
 

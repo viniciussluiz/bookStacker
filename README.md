@@ -1,6 +1,7 @@
-# organizaBiblioteca
+# bookStacker
 
-![organizaBiblioteca (2)](https://github.com/viniciussluiz/organizaBiblioteca/assets/103579574/3694165c-0ad8-4ed6-b3e0-83e17c422134)
+![bookStacker](https://github.com/viniciussluiz/bookStacker/assets/103579574/0f8a636d-fc41-4a51-ba3e-129d7dc6d532)
+
 
 # Documentação
 

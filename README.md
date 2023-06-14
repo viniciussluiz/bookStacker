@@ -1,6 +1,7 @@
 # bookStacker
 
-![bookStacker](https://github.com/viniciussluiz/bookStacker/assets/103579574/0f8a636d-fc41-4a51-ba3e-129d7dc6d532)
+![Meu projeto (1)](https://github.com/viniciussluiz/bookStacker/assets/103579574/8de15b2a-6f7e-4717-ac7a-b467adbffb04)
+
 
 
 # Documentação
